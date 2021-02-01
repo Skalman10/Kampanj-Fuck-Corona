@@ -11,18 +11,18 @@ body {
 }
 nav {
     font-size: 1.4rem;
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid #DEE21C;
     padding-left: 8rem;
     display: block;
-    background-color: yellowgreen;
+    background-color: #1C299B;
 }
-nav li {
-    list-style: none;
+nav li a {
     margin: 0 1rem;
-    background-color: teal;
+    color: #DEE21C;
 }
 nav ul {
     margin: 0;
+    list-style: none;
 }
 img {
     width: 20%;
@@ -33,4 +33,9 @@ img {
 a {
     text-decoration: none;
     color: black;
+}
+main{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #f1f1f1;
 }
