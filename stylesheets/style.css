@@ -12,9 +12,13 @@ body {
 nav {
     font-size: 1.4rem;
     border-bottom: 3px solid #DEE21C;
-    padding-left: 8rem;
     display: block;
     background-color: #1C299B;
+    justify-content: center;
+    padding: 1rem;
+    padding-left: 0;
+    padding-right: 0;
+    font-weight: 600;
 }
 nav li a {
     margin: 0 1rem;
@@ -24,9 +28,7 @@ nav ul {
     margin: 0;
     list-style: none;
 }
-img {
-    width: 20%;
-}
+
 .d-flex {
     display: flex;
 }
