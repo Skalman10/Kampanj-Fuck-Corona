@@ -41,6 +41,7 @@ main{
     width: 80%;
     margin: 0 auto;
     background-color: #f1f1f1;
+    padding-bottom: 2rem;
 }
 .Logotyp {
     display: block;
@@ -50,4 +51,11 @@ main{
 }
 main h1,h2,h3,p {
     padding-left: 1.5rem;
+}
+footer {
+    background-color: #818cab;
+    margin-top: auto;
+    padding-left: 10%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
