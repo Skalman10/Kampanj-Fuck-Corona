@@ -38,7 +38,7 @@ a {
     color: black;
 }
 main{
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
     background-color: #f1f1f1;
     padding-bottom: 2rem;
@@ -50,15 +50,16 @@ main{
     width: 100%;
 }
 main h1,h2,h3,p {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 footer {
     background-color: #818cab;
     margin-top: auto;
-    padding-left: 10%;
+    padding-left: 20%;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    color: #1C299B;
 }
 ol li {
     font-weight: 600;
