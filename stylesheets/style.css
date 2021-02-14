@@ -6,7 +6,7 @@ body {
     margin: 0;
     flex-direction: column;
     background-color: #f1f1f1;
-    font-family: 'Crimson Text', serif;
+    font-family: 'Noto Sans', sans-serif;
     color: black;
     background-color: #1C299B;
 }
@@ -51,6 +51,7 @@ main{
 }
 main h1,h2,h3,p {
     padding-left: 1.5rem;
+    padding-right: 1.5rem;
 }
 footer {
     background-color: #818cab;
@@ -58,4 +59,10 @@ footer {
     padding-left: 10%;
     padding-top: 1rem;
     padding-bottom: 1rem;
+}
+ol li {
+    font-weight: 600;
+}
+ul li {
+    font-weight: 500;
 }
