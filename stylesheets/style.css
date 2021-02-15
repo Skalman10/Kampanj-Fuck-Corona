@@ -73,3 +73,13 @@ ul li {
     margin-left: 1rem;
     margin-bottom: 1rem;
 }
+@media only screen and (max-width: 1020px) {
+    main {
+        width: 60%;
+    }
+    .Virus {
+        width: 40%;
+        margin-left: 0.5rem;
+        margin-bottom: 0,5rem;
+        }
+  }
