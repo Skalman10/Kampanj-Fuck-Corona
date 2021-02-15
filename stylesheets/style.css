@@ -64,8 +64,7 @@ footer {
 .Virus {
     width: 30%;
     float: right;
-    margin-left: 1rem;
-    margin-bottom: 1rem;
+    margin: 1rem;
 }
 .FAQ {
     font-weight: 600;
