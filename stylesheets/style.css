@@ -38,7 +38,7 @@ a {
     color: black;
 }
 main{
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
     background-color: #f1f1f1;
     padding-bottom: 2rem;
@@ -56,7 +56,7 @@ main h1,h2,h3,p {
 footer {
     background-color: #818cab;
     margin-top: auto;
-    padding-left: 20%;
+    padding-left: 25%;
     padding-top: 1rem;
     padding-bottom: 1rem;
     color: #1C299B;
@@ -66,4 +66,10 @@ ol li {
 }
 ul li {
     font-weight: 500;
+}
+.Virus {
+    width: 30%;
+    float: right;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
 }
